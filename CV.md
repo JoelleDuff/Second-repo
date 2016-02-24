@@ -1,8 +1,12 @@
 
 # *Curriculum Vitae*
 
+
 ![](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/098/2b8/176ff00.jpg)
+
 ___________________________________________
+
+
 ### Personal information
 
 
