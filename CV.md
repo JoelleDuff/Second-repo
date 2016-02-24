@@ -58,8 +58,8 @@ ______________________________
 
 *Dutch* | Mother tongue
 
-English | Mother tongue
+*English* | Mother tongue
 
-French | Limited working proficiency
+*French* | Limited working proficiency
 
 _________________________________________
