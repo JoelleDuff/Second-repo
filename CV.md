@@ -1,6 +1,5 @@
-
-% *Curriculum Vitae*
-
+% Curriculum Vitae 
+% Joelle Duff
 
 ![](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/098/2b8/176ff00.jpg)
 
@@ -10,16 +9,11 @@ ___________________________________________
 ### Personal information
 
 
-**Name** Joelle Mae Duff 
-
+**Name** Joelle Mae Duff
 **Address** Spoorlaan 392-83, 5038CE Tilburg, Netherlands
-
 **Telephone** 0031 613512737
-
 **E-mail** joelle.m.duff@gmail.com
-
 **Date of Birth** 14 March 1993
-
 **Nationality** Dutch and English
 
 ___________________________
