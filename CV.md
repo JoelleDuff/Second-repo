@@ -1,9 +1,12 @@
 
 # *Curriculum Vitae*
-__________________________________________________
 
+![](https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/3/005/098/2b8/176ff00.jpg)
+___________________________________________
 ### Personal information
-**Name** Joelle Mae Duff
+
+
+**Name** Joelle Mae Duff 
 
 **Address** Spoorlaan 392-83, 5038CE Tilburg, Netherlands
 
@@ -15,6 +18,8 @@ __________________________________________________
 
 **Nationality** Dutch and English
 
+___________________________
+
 ### Experience
 
 **2015 - 2016** Internship *Centre for the Promotion of Import from Developing Countries*
@@ -22,6 +27,9 @@ __________________________________________________
 **2006 - Present** Hospitality *Various Employers*
 
 **2012 - 2013** Chairwoman International Committee  *Study Association Asset | International Business and Management*
+
+______________________________________________
+
 
 ### Education
 
@@ -32,11 +40,15 @@ __________________________________________________
 
 **2011 - 2015** Bachelor International Business Administration *Tilburg University*
 
+____________________________
+
 ### Volunteer Work
 
 **2015** Goei Eete
 
 **2010 - 2013** Vestrock Festival
+
+______________________________
 
 ### Languages
 
@@ -45,3 +57,5 @@ __________________________________________________
 English | Mother tongue
 
 French | Limited working proficiency
+
+_________________________________________
