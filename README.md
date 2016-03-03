@@ -1,2 +1,2 @@
-# Second-repo
-Second Repository
+# Curriculum Vitae
+http://joelleduff.github.io/Second-repo/
