@@ -63,3 +63,7 @@ ______________________________
 *French* | Limited working proficiency
 
 _________________________________________
+### Skills
+
+Programming
+[http://joelleduff.github.io/Math/](http://joelleduff.github.io/Math/ "Latex Skills")
