@@ -66,4 +66,5 @@ _________________________________________
 ### Skills
 
 Programming
-[http://joelleduff.github.io/Math/](http://joelleduff.github.io/Math/ "Latex Skills")
+<https://joelleduff.github.io/New/> 
+<https://joelleduff.github.io/Math/>
