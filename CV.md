@@ -68,3 +68,5 @@ _________________________________________
 Programming
 
 [Latex Skills](https://joelleduff.github.io/Math2/)
+
+.
