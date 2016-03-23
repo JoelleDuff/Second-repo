@@ -67,5 +67,4 @@ _________________________________________
 
 Programming
 
-[new](https://joelleduff.github.io/New/) 
-[math](https://joelleduff.github.io/Math/)
+[Latex Skills](https://joelleduff.github.io/Math2/)
