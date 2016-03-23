@@ -66,5 +66,6 @@ _________________________________________
 ### Skills
 
 Programming
-<https://joelleduff.github.io/New/> 
-<https://joelleduff.github.io/Math/>
+
+[new](https://joelleduff.github.io/New/) 
+[math](https://joelleduff.github.io/Math/)
