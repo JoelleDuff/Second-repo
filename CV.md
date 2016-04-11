@@ -67,6 +67,14 @@ _________________________________________
 
 Programming
 
-[Latex Skills](https://joelleduff.github.io/Math2/)
+[Latex Skills][]
 
-.
+[Latex Skills]: https://joelleduff.github.io/Math2/
+
+[Python Notebook Skills][]
+
+[Python Notebook Skills]: http://ilaureys.github.io/Assignment3/Assignment3.ipynb
+
+[Python Html Skills][]
+
+[Python Html Skills]: http://ilaureys.github.io/Assignment3/Assignment3.html 
